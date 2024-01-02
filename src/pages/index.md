@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Security Topics
 image: /img/home-jumbotron.jpg
 heading: Twelve dank lessons for life
-subheading: Support sustainable farming while enjoying a cup
+subheading: Anonymity, privacy and cyber security
 mainpitch:
   title: Nathan's life coaching
   description: >
